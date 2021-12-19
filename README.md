@@ -94,3 +94,10 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 
 🔹 2.1 Paradigma Funcional: Lisp e Haskell
 🔹 2.2 Paradigma Lógico: Prolog
+
+
+OBS: Esse projeto foi feito junto com a CAmila cavalcante da Digital innovation.
+Obrigado Camila por compartilhar seus conhecimentos.💛🧡
+
+💛 Para quem ler esse projeto compartilha.
+Compartilhar conhecimento e Muito Bom. 💛
